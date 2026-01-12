@@ -10,7 +10,9 @@ Feature
 4. Included visual Presentation of Baohanle Prediction Results
 
 Example of prediction
+
 <img width="570" height="375" alt="结果展示" src="https://github.com/user-attachments/assets/5d040c15-3378-438c-80b2-f7cdff0b9eb3" />
+
 
 Envirnment
 -Python 3.x
@@ -24,4 +26,5 @@ Dataset source
 Kaggle - Plant Seedlings Classification
 
 ##how to run
+
 Google colab 
