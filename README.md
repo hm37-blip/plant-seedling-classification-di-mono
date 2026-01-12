@@ -14,15 +14,15 @@ Example of prediction
 
 
 Envirnment
--Python 3.x
--Pytorch & Torchvision
--Matplotlib
--Pandas
--PLT
--tqdm
+1. Python 3.x
+2. Pytorch & Torchvision
+3. Matplotlib
+4. Pandas
+5. PLT
+6. tqdm
 
 Dataset source
-Kaggle - Plant Seedlings Classification
+1. Kaggle - Plant Seedlings Classification
 
 How to run
-Google colab 
+1. Google colab 
